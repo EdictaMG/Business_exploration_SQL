@@ -6,7 +6,7 @@ In this repository I use SQL to explore data provided for a project on a fictive
 ## Files
 - **Magist_business_exploration**: SQL query exploring Magist data files
 - **Magist_schema:** schema of Magist's tables
-- **Presentation**: Slides used for a 5 minute presentation on the position against a partnerships
+- **Presentation**: slides used for a 5 minute presentation on the position against a partnerships
 
 ## Languages
 SQL
