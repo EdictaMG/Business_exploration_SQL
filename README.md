@@ -12,5 +12,5 @@ In this repository I use SQL to explore data provided for a project on a fictive
 SQL
 
 ## Tools
-MySQLWorkbench (for analysing with SQL)
-Tableau Public (for creating graph in presentation)
+- MySQLWorkbench (for analysing with SQL)
+- Tableau Public (for creating graph in presentation)
